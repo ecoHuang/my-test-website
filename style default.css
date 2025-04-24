@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h2 {
+    color:red;
+}
+p {
+    color:rgb(180, 90, 0);
+    font: size 25px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+header, section, footer {
+    background-color: bisque;
+    border: 3px #9d8189 solid;
+    padding:20px;
+    margin: 2vw;
+}
+
+section a:hover{
+    text-decoration: underline;
+}
+
+section a{
+    color:green;
+    text-decoration: none;
+}
